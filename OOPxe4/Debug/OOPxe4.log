@@ -1,0 +1,23 @@
+﻿生成启动时间为 2017/11/4 19:43:16。
+     1>项目“J:\编程语言\C++\MFC\上机\OOPxe4\OOPxe4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /U_CRT_SECURE_NO_DEPRECATE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\OOPxe4.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt OOPxe4.cpp OOPxe4Dlg.cpp
+         OOPxe4.cpp
+         正在生成代码...
+         正在编译...
+         OOPxe4Dlg.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\OOPxe4.res" OOPxe4.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\编程语言\C++\MFC\上机\OOPxe4\Debug\OOPxe4.exe" /INCREMENTAL /NOLOGO Kinect20.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"J:\编程语言\C++\MFC\上机\OOPxe4\Debug\OOPxe4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\编程语言\C++\MFC\上机\OOPxe4\Debug\OOPxe4.lib" /MACHINE:X86 Debug\OOPxe4.res
+         Debug\OOPxe4.obj
+         Debug\OOPxe4Dlg.obj
+         Debug\stdafx.obj
+         Debug\Student.obj
+         OOPxe4.vcxproj -> J:\编程语言\C++\MFC\上机\OOPxe4\Debug\OOPxe4.exe
+     1>已完成生成项目“J:\编程语言\C++\MFC\上机\OOPxe4\OOPxe4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.93
